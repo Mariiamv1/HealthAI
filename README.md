@@ -2,11 +2,8 @@
 # Project Name:
 HealthAI
 
-# Your idea in a nutshell: 
+# Summary: 
 HealthAI is a healthcare platform that uses AI to provide personalized health recommendations based on a user's health data and lifestyle habits.
-
-# Summary:
-This project aims to optimize the energy consumption of households and buildings by using AI algorithms. The system will analyze energy usage patterns and suggest ways to reduce energy waste.
 
 # Background: 
 The problem that HealthAI solves is the lack of personalized healthcare recommendations. People have different lifestyles, habits, and health issues, but traditional healthcare systems often provide a one-size-fits-all approach. This can lead to ineffective treatments and poor health outcomes. Our motivation for this project is to improve people's health and quality of life by providing personalized recommendations that are tailored to their unique needs and circumstances.
